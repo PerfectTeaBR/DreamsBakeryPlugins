@@ -1,6 +1,6 @@
 <h1 align="center">DreamsBakeryPacks</h1>
-<h3 align="center"></h3>
-Olha só, seja bem vindo á um simples servidor de Minecraft, apesar de Não ser público, ele é super legal!
+<h3 align="center">💫Plugins Compactos e simples para seu servidor de Minecraft!</h3>
+Olha só, Plugins! Apenas simples plugins para seu Servidor de Minecraft! (Para mais informações sobre o jogo acesse https://minecraft.net/)
 
 ## 🏭Plugins
 Sim, alguns plugins deste servidor são públicos, ou seja, você pode usar no seu Servidor de Minecraft.
