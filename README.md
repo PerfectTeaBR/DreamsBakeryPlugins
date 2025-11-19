@@ -10,7 +10,7 @@ Estes plugins fazem partes do <a href="https://github.com/PerfectTeaBR/JustALowL
 ## 💫 Compilação
 Para compilar os **Plugins**, siga estes passos:
 
-- Tenha o `JDK 8` (ou superior) instalado em sua máquina.
+- Tenha o `JDK 21` (ou superior) instalado em sua máquina.
 - Baixe o **IntelliJ Idea**
 - Tenha um servidor de Minecraft rodando o [PaperMC](https://github.com/PaperMC/Paper) em sua máquina.
 - Clone o repositório se você quiser ver o código fonte rodando em sua máquina.
