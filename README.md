@@ -26,7 +26,7 @@ Aqui está listado todas as Dependências:
 | [Bukkit](https://dev.bukkit.org) | BukkitMC |
 
 ## 📄 Licença & Alertas
-A Licença deste repositório é a [AGPL v3](LICENSE), recomendamos ler o Arquivo **LICENSE** para mais informações.
+A Licença deste repositório é a [PerfectTea Source for DreamsBakery v1.0(PTSDB)](LICENSE), recomendamos ler o Arquivo **LICENSE** para mais informações.
 
 Você pode rodar a vontade os packs, se o programa em Java Não funcionar, tente fazer um fork com o código atualizado, isso é permitido neste repositório.
 
